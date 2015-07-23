@@ -444,7 +444,8 @@ section {
   transition: opacity 0.45s ease;
   font-size: 12px; }
   .team .cover .overlay p {
-    text-align: justify; }
+    font-weight: 300;
+    text-align: left; }
 
 .team:hover .cover .overlay {
   opacity: 1; }
