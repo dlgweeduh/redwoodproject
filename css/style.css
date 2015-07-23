@@ -590,6 +590,10 @@ footer .open-blink:before {
   border-radius: 50%;
   background-color: #4caf50; }
 
+footer .contact {
+  border: 1px solid white;
+  padding: 20px; }
+
 footer .opening-hours {
   margin-top: 60px; }
 
