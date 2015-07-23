@@ -622,7 +622,7 @@ section {
 }
 
 .pricings .pricing .box-main:not(.active):hover {
-	background: #afafaf;
+	background: $c1_b;
 }
 
 .pricings .pricing .box-main.active {
@@ -638,12 +638,12 @@ section {
 	right: 0% !important;
 	left: auto;
 	opacity: 0;
-	background: #afafaf;
+	background: $c2_b;
 }
 
 .pricings .pricing .box-second.active {
 	opacity: 1;
-	background: $c1;
+	background: $c1_b;
 }
 
 .pricings .pricing.active .box-main,

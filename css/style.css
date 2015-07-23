@@ -519,7 +519,7 @@ section {
   transition-delay: 0.2s; }
 
 .pricings .pricing .box-main:not(.active):hover {
-  background: #afafaf; }
+  background: #FFAC73; }
 
 .pricings .pricing .box-main.active {
   background: #FF954D;
@@ -533,11 +533,11 @@ section {
   right: 0% !important;
   left: auto;
   opacity: 0;
-  background: #afafaf; }
+  background: #62DAC6; }
 
 .pricings .pricing .box-second.active {
   opacity: 1;
-  background: #FF954D; }
+  background: #FFAC73; }
 
 .pricings .pricing.active .box-main,
 .pricings .pricing .box-second {
